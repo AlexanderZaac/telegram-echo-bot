@@ -1,7 +1,7 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://bw_notifier_bot.herokuapp.com/execute.php';
+$WEBHOOK_URL = 'https://telegram-bw-notifier-bot.herokuapp.com/execute.php';
 $BOT_TOKEN = '679423412:AAGvDET8eVRjzYWFMnlvXAfzoADN1-I64Dg';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
